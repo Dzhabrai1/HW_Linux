@@ -1,0 +1,8 @@
+   0 touch ~/myfirstbashscript.sh
+   1 nano ~/myfirstbashscript.sh
+   2 chmod +x myfirstbashscript.sh
+   3 ./myfirstbashscript.sh
+   4 history
+   5 history > USER.txt
+   6 export
+   7 history > USER.txt
